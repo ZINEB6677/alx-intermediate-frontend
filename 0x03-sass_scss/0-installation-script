@@ -1,0 +1,21 @@
+Sass Installation Log
+
+Goal: Install the sass command-line compiler using npm (Node Package Manager) for a specific version.
+
+Prerequisites: Node.js and npm must be installed on the system.
+
+Steps Taken:
+
+Open Terminal/Command Prompt: Opened the command-line interface (Terminal on macOS/Linux or Command Prompt/PowerShell on Windows).
+
+Execute Installation Command: Ran the following command to install the sass package globally on the system and pin it to version 3.7.4:
+
+npm install -g sass@3.7.4
+
+
+Verification: To confirm the installation and version, the following command can be executed:
+
+sass --version
+
+
+(The output should indicate the successful installation of Sass version 3.7.4.)
